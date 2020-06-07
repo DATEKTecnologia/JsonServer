@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "500.89"
+    },
+    {
+      "id": 2,
+      "name": "Caneta BIC Azul",
+      "price": "5.9"
+    },
+    {
+      "id": 3,
+      "name": "Caneta BIC Vermelha",
+      "price": "5.8"
+    },
+    {
+      "id": 4,
+      "name": "Caneta BIC Verde",
+      "price": "5.7"
+    },
+    {
+      "name": "Caneta BIC 4 Cores",
+      "price": "6.00",
+      "id": 5
+    }
+    ,
+    {
+      "name": "Caneta BIC 4 Cores",
+      "price": "6.00",
+      "id": 6
+    }
+    ,
+    {
+      "name": "Caneta BIC 4 Cores",
+      "price": "6.00",
+      "id": 7
+    }
+    ,
+    {
+      "name": "Caneta BIC 4 Cores",
+      "price": "6.00",
+      "id": 8
+    }
+    ,
+    {
+      "name": "Caneta BIC 4 Cores",
+      "price": "6.00",
+      "id": 9
+    }
+    ,
+    {
+      "name": "Caneta BIC 4 Cores",
+      "price": "6.00",
+      "id": 10
+    }
+    ,
+    {
+      "name": "Caneta BIC 4 Cores",
+      "price": "6.00",
+      "id": 11
+    }
+  ]
+}
